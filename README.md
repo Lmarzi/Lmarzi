@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lorenzo! <br/><a href="https://github.com/Lmarzi">Automation & Control Engineer</a>, <a href="https://github.com/Lmarzi">Politecnico di Milano Graduate Student</a></h1>
+<h1>Hi, I'm Lorenzo! <br/>Automation & Control Engineer, Politecnico di Milano Graduate Student</h1>
 
 <h2>👨‍💻 Automation & Control Engineering Projects:</h2>
 
