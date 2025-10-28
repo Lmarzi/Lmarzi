@@ -8,8 +8,8 @@
 - **Quanser Aero Control (Various Controllers)**
   - [Modeling and Control of a 2-DOF Helicopter System](https://github.com/Lmarzi/QuanserAereo-Control-Lab-Project) - Lagrangian modeling and comparison of various controllers (PID, MPC, LMI, LQ, LQ-TV) for stabilization and tracking on the Quanser Aero 2-DOF helicopter setup (MATLAB/Simulink). Course: Automation and Control Laboratory @ PoliMi.
 
-- **DC Motor Tramway Control (Cascaded PI)**
-  - [DC Motor Control for ATM Tramway "Carelli 1928"](https://github.com/Lmarzi/DCMotor-Tramway-Control) - Modeling, parameter identification, and cascaded PI control design (with field weakening) for a separately excited DC motor driving an ATM 'Carelli 1928' tramway simulation (MATLAB/Simulink). Course: Dynamics of Electrical Machines and Drives @ PoliMi.
+- **DC Motor Tramway Control **
+  - [DC Motor Control for ATM Tramway "Carelli 1928"](https://github.com/Lmarzi/DCMotor-Tramway-Control) - Modeling, parameter identification, feedforward of disturbances, cascaded PI control design (with field weakening) for a separately excited DC motor driving an ATM 'Carelli 1928' tramway simulation (MATLAB/Simulink). Course: Dynamics of Electrical Machines and Drives @ PoliMi.
 
 - **Data-Driven Thymio Parking (Bachelor Thesis)**
   - [Data-Driven Automatic Parking for Thymio II Robot](https://github.com/Lmarzi/DataDriven-Thymio-AutoParking) - Implementation and experimental validation of a data-driven controller (Pellegrino et al.) for automatic parallel parking using a Thymio robot, synthesized from experimental data (Python). Bachelor Thesis @ UniTS.
